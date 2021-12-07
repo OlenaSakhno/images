@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T16:44:58.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="BeQKS9x_GdRRy3wsFbqZ" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T16:49:59.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="JD1nTJFrgI4TnmBAU3rn" version="15.9.1" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -109,6 +109,21 @@
         </mxCell>
         <mxCell id="QJlT98C1PGR3iqr336E--20" value="FO" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="740" y="420" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QJlT98C1PGR3iqr336E--21" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.monitor;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="110" y="465" width="80" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="QJlT98C1PGR3iqr336E--22" value="" style="html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;labelBackgroundColor=none;endArrow=none;fontFamily=Verdana;fontSize=22;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.013;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QJlT98C1PGR3iqr336E--21" target="69ecfefc5c41e42c-1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="320" y="635.8333333333333" as="sourcePoint" />
+            <mxPoint x="480" y="539.1666666666667" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJlT98C1PGR3iqr336E--23" value="802.11ac" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="290" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QJlT98C1PGR3iqr336E--25" value="TV&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="90" y="545" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
